@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CE048923-2F7E-4015-BC5E-873B464D5AA1}|Default">
+  <MonoDevelop.Ide.ItemProperties.Inventions__by__Women PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inventions_by_Women/Controllers/UsersController.cs">
+    <Files>
+      <File FileName="Inventions_by_Women/Controllers/UsersController.cs" Line="34" Column="17" />
+      <File FileName="Inventions_by_Women/Views/Users/Create.cshtml" Line="6" Column="1" />
+      <File FileName="Inventions_by_Women/Backoffice/Controllers/AuthenticationController.cs" Line="11" Column="1" />
+      <File FileName="Inventions_by_Women/Backoffice/Controllers/BOControllerBase.cs" Line="20" Column="6" />
+      <File FileName="Inventions_by_Women/Backoffice/Controllers/DashboardController.cs" Line="15" Column="69" />
+      <File FileName="Inventions_by_Women/Data/InventionsDbContext.cs" Line="33" Column="51" />
+      <File FileName="Inventions_by_Women/Filters/AuthenticationFilter.cs" Line="19" Column="11" />
+      <File FileName="Inventions_by_Women/Models/User.cs" Line="39" Column="41" />
+      <File FileName="Inventions_by_Women/Languages/Resources.cs" Line="1" Column="1" />
+      <File FileName="Inventions_by_Women/Models/ModelBase.cs" Line="20" Column="2" />
+      <File FileName="Inventions_by_Women/Models/Invention.cs" Line="11" Column="2" />
+      <File FileName="Inventions_by_Women/Properties/launchSettings.json" Line="11" Column="21" />
+      <File FileName="Inventions_by_Women/Providers/SQLLoggerProvider.cs" Line="23" Column="10" />
+      <File FileName="Inventions_by_Women/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="Inventions_by_Women/Controllers/HomeController.cs" Line="6" Column="31" />
+      <File FileName="Inventions_by_Women/Backoffice/Models (copie)/AuthencationLoginViewModel.cs" Line="6" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

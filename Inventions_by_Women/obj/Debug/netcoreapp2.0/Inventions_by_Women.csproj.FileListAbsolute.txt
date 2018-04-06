@@ -1,0 +1,4 @@
+/Users/imajkumoi_mac181/Projects/Inventions_by_Women/Inventions_by_Women/obj/Debug/netcoreapp2.0/Inventions_by_Women.csprojResolveAssemblyReference.cache
+/Users/imajkumoi_mac181/Projects/Inventions_by_Women/Inventions_by_Women/obj/Debug/netcoreapp2.0/Inventions_by_Women.csproj.CoreCompileInputs.cache
+/Users/imajkumoi_mac181/Projects/Inventions_by_Women/Inventions_by_Women/obj/Debug/netcoreapp2.0/Inventions_by_Women.AssemblyInfoInputs.cache
+/Users/imajkumoi_mac181/Projects/Inventions_by_Women/Inventions_by_Women/obj/Debug/netcoreapp2.0/Inventions_by_Women.AssemblyInfo.cs
